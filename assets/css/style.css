@@ -1,7 +1,9 @@
 h1 {
-  font-weight: 700;
+  font-family: Snell Roundhand, cursive;
+  font-weight: 300;
   font-size: 70px;
-  padding: 10px 0px 10px 0px;
+  padding: 25px 0px 10px 0px;
+  margin-left: 40px;
   color: white;
 }
 @keyframes slidein {
